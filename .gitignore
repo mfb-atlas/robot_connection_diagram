@@ -1,6 +1,7 @@
-_autosave-atlas.kicad_prl
 atlas-backups
-_autosave-atlas.kicad_pro
+atlas.kicad_sch-bak
+atlas.kicad_prl
+fp-info-cache
 
-# Ignore all kicad_sch-bak files
-*.kicad_sch-bak
+_autosave-atlas.kicad_pro
+_autosave-atlas.kicad_prl
